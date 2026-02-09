@@ -1,0 +1,7 @@
+za\ac\cput\serverapp\connection\DBConnection.class
+za\ac\cput\serverapp\dao\EnrollmentDAO.class
+za\ac\cput\serverapp\domain\Course.class
+za\ac\cput\serverapp\domain\Student.class
+za\ac\cput\serverapp\dao\UserDAO.class
+za\ac\cput\serverapp\ServerApp.class
+za\ac\cput\serverapp\dao\CourseDAO.class
