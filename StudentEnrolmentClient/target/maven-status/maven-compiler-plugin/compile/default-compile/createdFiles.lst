@@ -1,0 +1,10 @@
+za\ac\cput\clientapp\gui\LoginGUI.class
+za\ac\cput\clientapp\gui\AdminPanel.class
+za\ac\cput\clientapp\gui\StudentsEnrolledGUI.class
+za\ac\cput\clientapp\domain\Student.class
+za\ac\cput\clientapp\gui\AddCourseGUI.class
+za\ac\cput\clientapp\gui\CourseEnrollmentGUI.class
+za\ac\cput\clientapp\gui\AddStudentGUI.class
+za\ac\cput\clientapp\Client.class
+za\ac\cput\clientapp\domain\Course.class
+za\ac\cput\clientapp\gui\CourseEnrollmentGUI$1.class
